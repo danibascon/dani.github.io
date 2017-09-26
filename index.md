@@ -2,12 +2,14 @@
 layout: default
 ---
 
-TIPOS DE TEXTOS
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Sobre mi](another-page).
 
+
+El texto puede ser **negrita**, _cursiva_, or ~~subrayada~~.
+
+
+TIPOS DE TEXTOS
 
 
 # [](#header-1)Encabezado 1
