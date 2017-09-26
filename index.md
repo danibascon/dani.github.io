@@ -110,16 +110,6 @@ end
 ![](images/8.png)
 
 
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
 ### Una lista usando la sintaxis de HTML.
 
 <dl>
@@ -134,18 +124,4 @@ end
 </dl>
 
 ![](images/9.png)
-
-
-
-TIPOS DE ENCABEZADO
-
-1.  [](#header-1)Encabezado 1
-2.  [](#header-2)Encabezado 2
-3.  [](#header-3)Encabezado 3
-4.  [](#header-4)Encabezado 4
-5.  [](#header-5)Encabezado 5
-6.  [](#header-6)Encabezado 6
-
-
-
 
