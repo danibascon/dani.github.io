@@ -14,12 +14,18 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Este es un párrafo normal que sigue a un encabezado. GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración. Le permite a usted ya otros trabajar juntos en proyectos desde cualquier lugar.
 
+![](images/1.png)
+
+
 
 ## [](#header-2)Encabezado 2
 
 > Este es un blockquote después de un encabezado.
 >
 >Cuando algo es lo suficientemente importante, lo haces aunque las probabilidades no estén a tu favor.
+
+![](images/2.png)
+
 
 ### [](#header-3)Encabezado 3
 
@@ -37,6 +43,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+![](images/3.png)
+
+
 
 #### [](#header-4)Encabezado 4
 
@@ -44,11 +53,16 @@ end
 *   Esta es una lista desordenada que sigue un encabezado.
 *   Esta es una lista desordenada que sigue un encabezado.
 
+![](images/4.png)
+
+
 ##### [](#header-5)Encabezado 5
 
 1.  Esta es una lista ordenada siguiendo un encabezado.
 2.  Esta es una lista ordenada siguiendo un encabezado.
 3.  Esta es una lista ordenada siguiendo un encabezado.
+
+![](images/5.png)
 
 
 ###### [](#header-6)Encabezado 6
@@ -60,13 +74,14 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+![](images/6.png)
+
+
 ### Hay una regla horizontal debajo de esto.
 
 * * *
 
-
-
-
+![](images/7.png)
 
 
 
@@ -92,6 +107,9 @@ end
 - Articulo A
   - Articulo B
 
+![](images/8.png)
+
+
 
 ### Small image
 
@@ -115,15 +133,19 @@ end
 <dd>Green</dd>
 </dl>
 
+![](images/9.png)
+
+
+
 TIPOS DE ENCABEZADO
 
+1.  [](#header-1)Encabezado 1
+2.  [](#header-2)Encabezado 2
+3.  [](#header-3)Encabezado 3
+4.  [](#header-4)Encabezado 4
+5.  [](#header-5)Encabezado 5
+6.  [](#header-6)Encabezado 6
 
-1.	# [](#header-1)Encabezado 1
-2.	## [](#header-2)Encabezado 2
-3.	### [](#header-3)Encabezado 3
-4.	#### [](#header-4)Encabezado 4
-5.	##### [](#header-5)Encabezado 5
-6.	###### [](#header-6)Encabezado 6
 
 
 
