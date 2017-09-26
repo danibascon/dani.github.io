@@ -15,13 +15,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Este es un párrafo normal que sigue a un encabezado. GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración. Le permite a usted ya otros trabajar juntos en proyectos desde cualquier lugar.
 
 
-## [](#header-2)Header 2
+## [](#header-2)Encabezado 2
 
-> This is a blockquote following a header.
+> Este es un blockquote después de un encabezado.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>Cuando algo es lo suficientemente importante, lo haces aunque las probabilidades no estén a tu favor.
 
-### [](#header-3)Header 3
+### [](#header-3)Encabezado 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -38,19 +38,20 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+#### [](#header-4)Encabezado 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Esta es una lista desordenada que sigue un encabezado.
+*   Esta es una lista desordenada que sigue un encabezado.
+*   Esta es una lista desordenada que sigue un encabezado.
 
-##### [](#header-5)Header 5
+##### [](#header-5)Encabezado 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Esta es una lista ordenada siguiendo un encabezado.
+2.  Esta es una lista ordenada siguiendo un encabezado.
+3.  Esta es una lista ordenada siguiendo un encabezado.
 
-###### [](#header-6)Header 6
+
+###### [](#header-6)Encabezado 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -59,39 +60,38 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### Hay una regla horizontal debajo de esto.
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
-### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
-### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+
+### Lista desordenada:
+
+*   Articulo A
+*   Articulo B
+*   Articulo C
+
+### Lista ordenada:
+
+1.  Articulo A
+1.  Articulo B
+1.  Articulo C
+
+### Lista anidada:
+
+- Articulo A
+  - Articulo B
+  - Articulo B
+    - Articulo C
+    - Articulo C
+- Articulo A
+  - Articulo B
+
 
 ### Small image
 
@@ -102,7 +102,7 @@ end
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### Una lista usando la sintaxis de HTML.
 
 <dl>
 <dt>Name</dt>
@@ -115,10 +115,15 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+TIPOS DE ENCABEZADO
 
-```
-The final element.
-```
+
+1.	# [](#header-1)Encabezado 1
+2.	## [](#header-2)Encabezado 2
+3.	### [](#header-3)Encabezado 3
+4.	#### [](#header-4)Encabezado 4
+5.	##### [](#header-5)Encabezado 5
+6.	###### [](#header-6)Encabezado 6
+
+
+
