@@ -2,17 +2,18 @@
 layout: default
 ---
 
+TIPOS DE TEXTOS
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Sobre mi](another-page).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [](#header-1)Encabezado 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Este es un párrafo normal que sigue a un encabezado. GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración. Le permite a usted ya otros trabajar juntos en proyectos desde cualquier lugar.
+
 
 ## [](#header-2)Header 2
 
